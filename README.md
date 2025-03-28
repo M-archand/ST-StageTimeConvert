@@ -3,7 +3,7 @@ A python script to convert your sharptimer stage times into a csv for db upload.
 
 
 Example usage from cmd:
-`C:\Users\Marchand\Desktop\bulkStageTimeConvert>python StageTimeConvert.py -i stagetimes`
+`C:\Users\Marchand\Desktop\StageTimeConvert>python StageTimeConvert.py -i stagetimes`
 
 Once you've upload the stage times to your db, run the following sql statement to update the empty PlayerName column:
 ```sql
