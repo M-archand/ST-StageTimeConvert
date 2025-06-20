@@ -1,5 +1,5 @@
 # ST-StageTimeConvert
-A python script to convert your sharptimer stage times into a csv for db upload.
+A python script to convert your sharptimer stage times into a csv for db upload. (Tested on version 3.12)
 
 
 Example usage from cmd:
